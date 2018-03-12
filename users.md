@@ -96,7 +96,7 @@
 - Name: Marcus Lancaster  
   Place: Edinburgh, Scotland  
   Bio: Have you heard of our lord and saviour: Vim?  
-  GitHub [Marcus L](https://github.com/questionmarcus)  
+  GitHub: [Marcus L](https://github.com/questionmarcus)  
   Facebook: -  
 
 - Name: Sibylle Sehl  
@@ -254,7 +254,7 @@
 - Name: Eric Christensen
   Place: United States
   Bio: Infosec Student and IT guy
-  GitHub [christensenea](https://github.com/Christensenea)
+  GitHub: [christensenea](https://github.com/Christensenea)
   Facebook:
 
 - Name: Alice Chuang
@@ -266,7 +266,7 @@
 - Name: Shade Ruangwan  
   Place: Japan  
   Bio: PhD student in Software Engineering  
-  Github: [sruangwan](https://github.com/sruangwan) 
+  Github: [sruangwan](https://github.com/sruangwan)
 
 - Name: Brandon Brewer  
   Place: US  
@@ -286,42 +286,43 @@
 - Name: Aswin VB  
   Place: India  
   Bio: BTech Student In Information Technology
-  Github: [aswinzz](https://github.com/aswinzz) 
+  Github: [aswinzz](https://github.com/aswinzz)
 
-- Name:Shankhalika Sarkar 
+- Name:Shankhalika Sarkar
   Place: Karnataka, India
   Bio: CS Undergrad. I love a good cup of tea and some puzzles to go along with.
-  Github: [Shankhalika](https://github.com/Shankhalika) 
+  Github: [Shankhalika](https://github.com/Shankhalika)
 
 - Name:  Sarsiz
   Place: New Delhi, India  
   Bio: I am an aspiring programmar
-  GitHub: [Sarsiz](https://github.com/sarsiz) 
+  GitHub: [Sarsiz](https://github.com/sarsiz)
 
 - Name: Akshay Kumar
   Place: India
   Bio: Btech Student in Computer Science
-  Github: [AkshayCHD](https://github.com/AkshayCHD) 
+  Github: [AkshayCHD](https://github.com/AkshayCHD)
 
 - Name: Cole Simchick  
   Place: Lancaster, PA, USA  
   Bio: Computer Software Engineering Student
   Github: [colelabar](https://github.com/colelabar)   
 
-- Name: Priyansh Agrawal  
-  Place: Hyderabad , India  
-  Bio: I am an enthusiast for web development and nlp  
-  GitHub: [priyansh2](https://github.com/Priyansh2)  
+- Name: Priyansh Agrawal  		
+  Place: Hyderabad , India  		
+  Bio: I am an enthusiast for web development and nlp  		
+  GitHub: [priyansh2](https://github.com/Priyansh2) 
+ 
 - Name: Patrick Stephens  
   Place: USA  
   Bio: Professional Geek  
   Github: [patsteph](https://github.com/patsteph)  
-  
+
 - Name: Bipin Kumar  
   Place: India  
   Bio: Android Developer, Btech in IT
-  Github: [bipinkumar919](https://github.com/bipinkumar919) 
-  
+  Github: [bipinkumar919](https://github.com/bipinkumar919)
+
 - Name: Abhishek Tiwari
   Place: India
   Bio: IIIT-ian. Coding isn't my addiction, it's part of my nature.
@@ -332,10 +333,10 @@
   Bio: JS Developer @ Rentomojo  
   Github: [shreyas-a](https://github.com/shreyas-a)  
 
-- Name: Hardik Joshi 
-  Place: India 
+- Name: Hardik Joshi
+  Place: India
   Bio: Javascript Enthusiast and CSS Preacher
-  Github: [hardikyjoshi](https://github.com/hardikyjoshi) 
+  Github: [hardikyjoshi](https://github.com/hardikyjoshi)
 
 - Name: Alexandra CT
   Place: Texas
@@ -345,12 +346,17 @@
 - Name: David Y.  
   Place: USA  
   Bio: Developer  
-  Github: [idavidy](https://github.com/idavidy) 
+  Github: [idavidy](https://github.com/idavidy)
 
 - Name: Mayank Saxena
   Place: India
   Bio: Student Developer
   Github: [mayank26saxena](https://github.com/mayank26saxena) 
+
+- Name: Rajat Goyal
+  Place: India
+  Bio: Software Developer
+  Github: [rajatgoyal715](https://github.com/rajatgoyal715)
 
 - Name: Anmol Mishra
   Place: India
@@ -361,7 +367,13 @@
   Place: England, UK  
   Bio: I am a female Front-End Web Developer who loves creating beatiful stunning clean and responsive websites.  
   GitHub: [darkxangel84](https://github.com/darkxangel84)  
-  Facebook:
+  Facebook: 
+
+- Name: Raneesh Gomez    
+  Place: Colombo, Sri Lanka    
+  Bio: Undergraduate of BEng Software Engineering Degree from the University of Westminster. My hobbies include singing, beatboxing and developing.    
+  Github: [codeSmart2307](https://github.com/codeSmart2307)    
+  Facebook: [Your name](https://www.facebook.com/raneesh.gomez)     
 
 - Name: Aurelia Womack
   Place: Ravenna, Ohio, USA
@@ -369,7 +381,54 @@
   GitHub: [LilyBell](https://github.com/LilyBell)
   Facebook:  
 
-  Name: Dillon  
+- Name: Tobias M.
+  Place: Germany
+  Bio: 13 y/o
+  Github: [tobimori](https://github.com/tobimori) 
+
+- Name: Matteo Biagetti  
+  Place: Rome, Italy  
+  Bio: I am a Backend Developer actually focused on PHP/Symfony Stack. MOOC Addicted  
+  [StackOwerflow](https://stackoverflow.com/users/2270041/matteo?tab=profile) Enthusiast!
+  GitHub: [mbiagetti](https://github.com/mbiagetti)  
+  Facebook:  
+  
+- Name: Saumeya Katyal  
+  Place: Pune, Maharashtra, India  
+  Bio: I am a Computer Science student who loves to write code and learn new things about technology.  
+  GitHub: [saumeya](https://github.com/saumeya)  
+  Facebook:  
+
+- Name: Non Intanon
+  Place: Bangkok, Thailand
+  Bio: Fullstack web developer from land of smile :)
+  GitHub: [nonintanon](https://github.com/nonintanon)
+  
+- Name:  Amir Djema  
+  Place: Nicosia, Cyprus  
+  Bio: Father of two, husband, and geek  by default.  
+  GitHub: [Amir Djema](https://github.com/nemfoz)  
+  Facebook:
+
+- Name: Wildcardjoker  
+  Place: Western Australia  
+  Bio: System administrator and in-house application developer. Full-stack windows developer for C#/WPF/ASP.NET/Powershell/SQL Server  
+  GitHub: [wildcardjoker](https://github.com/wildcardjoker)  
+  Facebook:  
+
+- Name: Rohan Banerjee  
+  Place: Chennai, India  
+  Bio: I love to code. Student. B.Tech(CSE), II year.  
+  GitHub: [Rohan Banerjee](https://github.com/rohanbanerjee)  
+  Facebook: [Rohan Banerjee](https://www.facebook.com/rohanbanerjee01)  
+
+- Name: Gurkirat Singh  
+  Place: Chandigarh, India  
+  Bio:  I am self taught lazy program, likes to automate my problems. Coding is <3
+  GitHub: [darkxangel84](https://github.com/tbhaxor)  
+  Facebook:  [gurkirat](https://facebook.com/gurkirat.py)
+
+- Name: Dillon  
   Place: Sri Lanka
   Bio: Student Developer/Graphic Designer
   GitHub: [DillonLakshman](https://github.com/DillonLakshman)
@@ -438,3 +497,23 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+
+- Name: Elaine Mary Rose  
+  Place: Allahabad, India  
+  Bio: Developer under development.   
+  GitHub: [Elaine Mary Rose](https://github.com/stickberry)  
+  
+- Name: Lekhika Dugtal 
+  Place: Delhi, India  
+  Bio: Sophomore   
+  GitHub: [Alastair7](https://github.com/Alastair7)  
+  
+- Name: Dhairya Baweja  
+  Place: Faridabad, India  
+  Bio: student (IT), Btech Ist year  
+  GitHub: [dhairyabaweja](https://github.com/dhairyabaweja)
+
+- Name: Vivek Raj  
+  Place: Allahabad, India  
+  Bio: Worst Web Developer  
+  GitHub: [swaager](https://github.com/swaager)  
